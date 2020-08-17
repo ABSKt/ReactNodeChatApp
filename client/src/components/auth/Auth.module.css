@@ -1,0 +1,31 @@
+.screen{
+    position: relative;
+    width: 230px;
+    max-width: 50%;
+    height: 130px;
+    max-height: 50%;
+    /* background-color: #eeecda ; */
+    margin : auto;
+    top: 150px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.input {
+    width: 200px;
+    margin : 10px;
+}
+
+.Button {
+    position: relative;
+    margin: 20 auto;
+    background-color: #2bb2bb;
+    left: 80px;
+
+}
+.paragraph {
+    position: relative;
+    margin: auto;
+    left: 10px ;
+    cursor: pointer;
+}

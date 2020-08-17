@@ -1,0 +1,11 @@
+.Button {
+    width: 70%;
+    margin-left: 12%;
+    margin-top: 5px;
+    height: 25px;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 2px;
+    
+}

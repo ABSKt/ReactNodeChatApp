@@ -1,0 +1,9 @@
+.input {
+    width: 200px;
+    margin : 10px;
+}
+
+.Button {
+    display: flex;
+    margin-left: 50px;
+}

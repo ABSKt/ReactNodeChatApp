@@ -1,0 +1,21 @@
+.Screen {
+    /* display: inline; */
+    
+    /* background-color: royalblue; */
+}
+.LeftContainer {
+    background-color: #00bcd4;
+    width: 22%;
+    min-height: 500px;
+    height: 100%;
+    float: left;
+    margin-left: 2%;
+}
+.RightContainer {
+    background-color: #f3f3f3;
+    width: 72%;
+    min-height: 500px;
+    height: 100%;
+    float: Right;
+    margin-right: 2%;
+}
